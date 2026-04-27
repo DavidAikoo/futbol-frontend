@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Agregar</string>
+    <string name="app_name">FútbolApp</string>
+    <string name="cancel">Cancelar</string>
+    <string name="coaches">Entrenadores</string>
+    <string name="confirm">Confirmar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_confirm">¿Estás seguro de que deseas eliminar este elemento?</string>
+    <string name="edit">Editar</string>
+    <string name="error_title">Error</string>
+    <string name="loading">Cargando...</string>
+    <string name="matches">Partidos</string>
+    <string name="no_data">No hay datos</string>
+    <string name="players">Jugadores</string>
+    <string name="retry">Reintentar</string>
+    <string name="save">Guardar</string>
+    <string name="search_hint">Buscar...</string>
+    <string name="statistics">Estadísticas</string>
+    <string name="teams">Equipos</string>
+    <string name="welcome">Bienvenido al Sistema de Gestión de Fútbol</string>
+    <style name="Theme.FutbolApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
